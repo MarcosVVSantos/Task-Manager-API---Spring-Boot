@@ -44,12 +44,7 @@ Copy
 mvn spring-boot:run  
 Acesse a API em: http://localhost:8080/api/tasks
 
-📌 Próximos Passos
-Adicionar autenticação (JWT/OAuth2)
 
-Implementar paginação e ordenação
-
-Deploy em nuvem (Heroku, AWS, Railway)
 
 📄 Licença
 MIT License
